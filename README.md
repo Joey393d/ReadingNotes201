@@ -1,5 +1,5 @@
 # ReadingNotes201
-
+_Table Of Contents_
 * [notes1](notes01.md)
 * [notes2](notes02.md)
 * [notes3](notes03.md)
@@ -15,3 +15,6 @@
 * [notes13](notes13.md)
 * [notes14](notes14.md)
 * [notes15](notes15.md)
+As Isaac Asimov says
+> I do not fear computers.
+> I fear lack of them.
