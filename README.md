@@ -15,6 +15,7 @@ _Table Of Contents_
 * [notes13](notes13.md)
 * [notes14](notes14.md)
 * [notes15](notes15.md)
+
 As Isaac Asimov says
 > I do not fear computers.
 > I fear lack of them.
