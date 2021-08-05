@@ -1,0 +1,5 @@
+The first section of reading talks about forms and how they can be applied to websites. As well as things like password inputs and various other uses for forms. Submit buttons and other things like that as well. How to make sure it is things like an email or how to search input.
+
+The next chunk goes into bullet lists and attaching images to them. As well as shorthand lists. It also talks about tables and table properties and how to use cells. It also goes into styling things like changing the cursor and styling submit buttons.
+
+The reading in the JS book talks about events. pg 247 has a bunch of terminology for them and a lot of the types. It also goes into DOM even handlers and what they do and how to use them properly. It then goes into event listeners and how they can be used to listen for a specific thing to happen on the page to then trigger the event. It also talks about default behavior and how we shouldn't let it just use default. User interface events and Load. It goes into all of the types of events and how useful they can be for different situations. It can even go as far as seeing which key is pressed.
